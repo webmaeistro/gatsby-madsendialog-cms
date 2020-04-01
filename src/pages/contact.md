@@ -1,11 +1,10 @@
 ---
-title: Get in Touch
+title: Kontakt
 img_path: images/contact.jpg
 menus:
   main:
-    title: Contact
+    title: Kontakt
     weight: 6
 template: contact
 ---
-
-To get in touch fill the form below.
+Fyll ut skjema nedenfor for å ta kontakt eller send meg en epost på oyvind@madsendialog.no
