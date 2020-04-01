@@ -4,13 +4,13 @@
   "header": {
     "title": "Madsendialog",
     "tagline": "FILOSOFISK PRAKSIS",
-    "logo_img": "images/logo.png",
+    "logo_img": "",
     "bg_img": "/images/8.jpg",
     "has_nav": true,
     "has_social": true
   },
   "footer": {
-    "content": "&copy; Madsen Dialog AS All rights reserved.",
+    "content": "&copy; Madsendialog. All rights reserved.",
     "links": [
       {
         "text": "Laget av Martin Andersen",
