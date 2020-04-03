@@ -21,7 +21,7 @@ export default class Home extends React.Component {
                       <header className="post-header">
                         <h2 className="post-title"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
                         <div className="post-meta">
-                          Published on <time className="published"
+                          Publisert <time className="published"
                             dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
                         </div>
                       </header>
@@ -34,7 +34,7 @@ export default class Home extends React.Component {
                         <p>{_.get(post, 'frontmatter.excerpt')}</p>
                       </div>
                       <p className="read-more">
-                        <Link className="read-more-link" to={safePrefix(_.get(post, 'url'))}>Keep reading <span className="icon-arrow-right" aria-hidden="true" /></Link>
+                        <Link className="read-more-link" to={safePrefix(_.get(post, 'url'))}>Fortsett å les <span className="icon-arrow-right" aria-hidden="true" /></Link>
                       </p>
                     </article>
                     ))}
