@@ -1,6 +1,6 @@
 ---
 title: Om Meg
-subtitle: filosofisk praktiker
+subtitle: Filosof og filosofisk praktiker
 img_path: /images/fda83e0f76af2c99bfee80f02bb3116a.png
 menus:
   main:
