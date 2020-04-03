@@ -1,7 +1,7 @@
 {
-  "name": "stackbit-fjord-theme",
-  "description": "Stackbit Fjord Theme",
-  "version": "0.0.1",
+  "name": "gatsby-madsendialog",
+  "description": "Website for madsendialog with oyvind madsen",
+  "version": "0.1.1",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -10,10 +10,11 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "@stackbit/gatsby-plugin-menus": "0.0.4",
+    "@stackbit/gatsby-plugin-menus": "^0.0.4",
     "classnames": "^2.2.6",
     "fs-extra": "^7.0.1",
     "gatsby": "^2.20.12",
+    "gatsby-cli": "^2.11.5",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-offline": "^3.1.2",
     "gatsby-plugin-react-helmet": "^3.0.0",
@@ -26,12 +27,12 @@
     "moment-strftime": "^0.5.0",
     "node-sass": "^4.13.1",
     "node-sass-utils": "^1.1.2",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-helmet": "^5.2.0",
     "react-html-parser": "^2.0.2",
     "react-script-tag": "^1.1.2",
-    "rehype-react": "^3.0.2",
+    "rehype-react": "^5.0.1",
     "sprintf-js": "^1.1.2"
   }
 }

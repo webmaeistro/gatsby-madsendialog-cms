@@ -38,6 +38,17 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        }       
+        },
+        {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+              name: `Madsen Dialog`,
+              short_name: `MD`,
+              start_url: `/`,
+              background_color: `#f7f0eb`,
+              theme_color: `#a2466c`,
+              display: `standalone`,
+            },
+          },       
     ]
 };
