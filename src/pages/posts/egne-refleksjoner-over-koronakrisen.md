@@ -1,8 +1,23 @@
 ---
 title: Egne refleksjoner over koronakrisen
 date: 2020-03-22T21:04:54.256Z
-thumb_img_path: /images/85497476_2805761969540142_6759421656453611520_n.jpg
-excerpt: hva er det som endres?
+thumb_img_path: /images/madsendialog-bg.jpg
+excerpt: >-
+  Jeg treffer folk hver dag … i matbutikken, på jobben/oppdrag, naboene,
+  fremmede, … hva er det som endres?  Tidligere kunne jeg håndhilse og/eller
+  klemme de jeg kjente … nå kan jeg ikke gjøre det så lenge koronaviruset
+  eksisterer. Tidligere kunne jeg utføre mange oppdrag … nå er alle oppdragene
+  avbestilte og jeg står uten inntekt. Mange ansatte i ulike bedrifter er
+  permitterte og naver nå. Tidligere trengte jeg ikke å vaske hendene mine så
+  ofte, for eksempel etter å ha vært ute i det offentlige … nå vasker jeg oftere
+  enn normalt. Antibac var lite brukt … nå er den mye brukt med mindre jeg har
+  såpe tilgjengelig. Tidligere kunne jeg stå sammen med andre som sild i tønne
+  uten frykt, for eksempel å spise middag på restaurant, på Old Trafford for å
+  se på fotballkamp eller på kino el. lign. … nå kan jeg ikke gjøre det på grunn
+  av frykten for smitte og jeg er nødt til å holde god avstand til andre.
+  Tidligere kunne jeg dra til byen for å kjøpe noe jeg trenger,for eksempel bok
+  eller klær … nå er de fleste butikkene stengte, osv. osv. Rutinene endres til
+  kaos i Norge. Jeg vet at mange opplever det samme som meg.
 hide_header: false
 template: post
 ---
