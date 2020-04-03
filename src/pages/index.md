@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Hjem
 menus:
   main:
-    title: Home
+    title: Hjem
     weight: 1
 template: home
 ---

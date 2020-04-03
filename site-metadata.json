@@ -1,16 +1,16 @@
 {
-  "title": "Madsen Dialog AS",
+  "title": "Madsen Dialog ",
   "palette": "green",
   "header": {
-    "title": "Madsendialog",
+    "title": "Madsen Dialog",
     "tagline": "FILOSOFISK PRAKSIS",
-    "logo_img": "",
+    "logo_img": "/images/85497476_2805761969540142_6759421656453611520_n.jpg",
     "bg_img": "/images/fda83e0f76af2c99bfee80f02bb3116a.png",
     "has_nav": true,
     "has_social": true
   },
   "footer": {
-    "content": "&copy; Madsendialog. All rights reserved.",
+    "content": "&copy; Madsen Dialog, Øyvind Madsen. Alle rettigheter reservert",
     "links": [
       {
         "text": "Laget av Martin Andersen",

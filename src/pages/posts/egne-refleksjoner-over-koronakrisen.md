@@ -1,7 +1,7 @@
 ---
 title: Egne refleksjoner over koronakrisen
 date: 2020-03-22T21:04:54.256Z
-thumb_img_path: /images/8.jpg
+thumb_img_path: /images/85497476_2805761969540142_6759421656453611520_n.jpg
 excerpt: hva er det som endres?
 hide_header: false
 template: post
