@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "title": "Blogg",
+      "url": "/posts",
+      "weight": 2,
+      "identifier": "main"
+    }
+  ]
+}
